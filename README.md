@@ -50,7 +50,7 @@ Python 3.13, NumPy, pandas, Matplotlib, Seaborn, scikit-learn, and PyTorch. The 
 
 | File | Contents |
 | --- | --- |
-| `credit-card (1).ipynb` | Data analysis, preprocessing, training, threshold selection, and evaluation |
+| `credit-card.ipynb` | Data analysis, preprocessing, training, threshold selection, and evaluation |
 | `README.md` | Project documentation and run instructions |
 
 ## How to run
